@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1298250924 source:d:\eric\workspace\jr_tetris\jr_keyboard.c
+	<conio.h>
+	"JR_KeyBoard.h"
+
+1297931192 d:\eric\workspace\jr_tetris\jr_keyboard.h
+
+1297931192 source:d:\eric\workspace\jr_tetris\jr_random.c
+	<time.h>
+	"JR_Random.h"
+
+1297996986 d:\eric\workspace\jr_tetris\jr_random.h
+
+1297931192 source:d:\eric\workspace\jr_tetris\jr_timer.c
+	"JR_timer.h"
+
+1297931190 d:\eric\workspace\jr_tetris\jr_timer.h
+
+1299226011 source:d:\eric\workspace\jr_tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1299225293 d:\eric\workspace\jr_tetris\main.h
+	"JR_Cursor.h"
+	"JR_KeyBoard.h"
+	"JR_Random.h"
+	"JR_timer.h"
+	"tetris.h"
+
+1297931115 d:\eric\workspace\jr_tetris\jr_cursor.h
+
+1299225385 d:\eric\workspace\jr_tetris\tetris.h
+
+1299225329 source:d:\eric\workspace\jr_tetris\tetris.c
+	"tetris.h"
+	"main.h"
+
+1297931115 source:d:\eric\workspace\jr_tetris\jr_cursor.c
+	"JR_Cursor.h"
+	<windows.h>
+
