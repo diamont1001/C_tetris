@@ -2,7 +2,7 @@
 
 跟之前的贪吃蛇一样，都是用C语言写的，Windows字符界面的小游戏，没有调用到任何三方图形库。
 
-![](https://raw.githubusercontent.com/diamont1001/C_tetris/master/docs/1.gif)
+<img src="https://raw.githubusercontent.com/diamont1001/C_tetris/master/docs/1.gif" width="540"/>
 
 ## 实现
 
